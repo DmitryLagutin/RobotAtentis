@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\AtentisPrimer.exe.config
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\AtentisPrimer.exe
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\AtentisPrimer.pdb
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\Atentis.Connection.dll
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\Atentis-Primer.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.Form1.resources
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\Atentis-Primer.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.exe
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.pdb

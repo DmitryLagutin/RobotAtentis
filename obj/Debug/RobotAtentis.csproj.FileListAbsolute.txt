@@ -1,0 +1,41 @@
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\AtentisPrimer.exe.config
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\AtentisPrimer.exe
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\AtentisPrimer.pdb
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\bin\Debug\Atentis.Connection.dll
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\RobotAtentis.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.Form1.resources
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\RobotAtentis.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.exe
+C:\Users\Дмитрий\Desktop\ALOR-SDK (WinForms Demo)\obj\Debug\AtentisPrimer.pdb
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\AtentisPrimer.exe.config
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\AtentisPrimer.exe
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\AtentisPrimer.pdb
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\Atentis.Connection.dll
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\RobotAtentis.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.Form1.resources
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.Properties.Resources.resources
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\RobotAtentis.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.exe
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.pdb
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\bin\Debug\AtentisPrimer.exe.config
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\bin\Debug\AtentisPrimer.exe
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\bin\Debug\AtentisPrimer.pdb
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\bin\Debug\Atentis.Connection.dll
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\RobotAtentis.csprojResolveAssemblyReference.cache
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.Form1.resources
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.Properties.Resources.resources
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\RobotAtentis.csproj.GenerateResource.Cache
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\RobotAtentis.csproj.CoreCompileInputs.cache
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.exe
+C:\Users\Администратор.WIN-QVBBKNJHDMA\Desktop\RobotAtentis\obj\Debug\AtentisPrimer.pdb
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\EntityFramework.dll
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\System.Data.SQLite.dll
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\EntityFramework.xml
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\System.Data.SQLite.xml
+C:\Users\Дмитрий\Desktop\RobotAtentis\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Дмитрий\Desktop\RobotAtentis\obj\Debug\RobotAtentis.csproj.CoreCompileInputs.cache
