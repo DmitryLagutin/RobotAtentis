@@ -1,3 +1,5 @@
+![Альтернативный текст](https://github.com/DmitryLagutin/RobotAtentis/blob/master/photo.jpg "Подсказка")
+
 # RobotAtentis
 Базовый бот на основе коннектора Alor Atentis
 
