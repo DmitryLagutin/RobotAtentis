@@ -13,8 +13,8 @@ namespace AtentisPrimer
         public static Slot data_slot;  // Информационный слот
         public static Slot trans_slot; // Транзакционный слот
         public static string Server = "213.181.16.52";
-        public static string Login = "forts701";
-        public static string Password = "VNVEXPW";
+        public static string Login = "forts893";
+        public static string Password = "VWQWXPW";
         public static int Port = 7800;
 
         public static string SecBoard_Si = "Si";
