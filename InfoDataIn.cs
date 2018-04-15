@@ -16,21 +16,21 @@ namespace AtentisPrimer
         public static string Login = "forts701";
         public static string Password = "VNVEXPW";
         public static int Port = 7800;
-        // OrderBook 1 (То что отсылаем на сервер)
+
         public static string SecBoard_Si = "Si";
         public static string SecCode_Si = "Si-6.18";
-        // OrderBook 2 (То что отсылаем на сервер)
+
         public static string SecBoard_Ri = "RTS";
         public static string SecCode_Ri = "RTS-6.18";
-        // Работает или нет робот
+
         public static bool RobotWork = false;
         public static DataTable OrderBook_Si = null;
         public static DataTable OrderBook_Ri = null;
         public static DataTable Orders = null;
-        // Возвращенный стакан Si
+
         public static DataOrderBook[] bq_Si = { new DataOrderBook() { Price = 0, Quantity = 0 } };
         public static DataOrderBook[] sq_Si = { new DataOrderBook() { Price = 0, Quantity = 0 } };
-        // Возвращенный стакан Ri
+
         public static DataOrderBook[] bq_Ri = { new DataOrderBook() { Price = 0, Quantity = 0 } };
         public static DataOrderBook[] sq_Ri = { new DataOrderBook() { Price = 0, Quantity = 0 } };
         public static Table table_Sec;
