@@ -1,4 +1,4 @@
-![Альтернативный текст](https://github.com/DmitryLagutin/RobotAtentis/blob/master/photo.jpg "Подсказка")
+![Trading](https://github.com/DmitryLagutin/RobotAtentis/blob/master/img/1.jpg "Пример работы робота в высокочастотном режиме")
 
 # RobotAtentis
 Базовый робот (торговую логику вы можете написать сами) для торговли на срочном рынке (фьчерсы и опционы) [Московской биржи](https://www.moex.com/ "ссылка на Московскую биржу").
