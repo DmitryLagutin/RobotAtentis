@@ -1,6 +1,6 @@
 ![Trading](https://github.com/DmitryLagutin/RobotAtentis/blob/master/img/1.jpg "Пример работы робота в высокочастотном режиме")
 
-# RobotAtentis
+# TraidingBot
 Базовый робот (торговую логику вы можете написать сами) для торговли на срочном рынке (фьчерсы и опционы) [Московской биржи](https://www.moex.com/ "ссылка на Московскую биржу").
 Робот использует коннектор от брокера Алор ([библиотека Atentis](https://alorbroker.ru/trading/tools/ "ссылка на сайт брокера")).
 
